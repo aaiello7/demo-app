@@ -49,7 +49,7 @@ function App() {
           <HeadBar 
           />}
         <Switch>
-            <Route exact path="/">
+            <Route exact path="/demo-app">
               <Login
               isLogin={verifyLogScreen}
               getUser={fetchProfile}
