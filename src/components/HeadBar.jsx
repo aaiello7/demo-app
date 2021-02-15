@@ -110,7 +110,7 @@ function HeadBar () {
                 />
             </div>
             <IconButton color="inherit" aria-label="menu">
-                <Link to="/">
+                <Link to="/demo-app">
                     <ExitToAppIcon className={classes.customIcon} color="action" fontSize="medium"/>
                 </Link>
             </IconButton>
